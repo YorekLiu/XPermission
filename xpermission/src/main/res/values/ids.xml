@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="xpermission_permission_tips" type="id" />
+    <item name="xpermission_title" type="id" />
+    <item name="xpermission_info" type="id" />
+</resources>
