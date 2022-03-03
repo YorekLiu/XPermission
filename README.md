@@ -30,4 +30,4 @@ XPermission.get(this)
 
 本库可同步展示权限说明，权限文案可全局指定，也可以针对特定的场景自定义。
 
-![video](https://raw.githubusercontent.com/YorekLiu/AmazingWidget/master/_screenshots/video.webp)
+![video](https://raw.githubusercontent.com/YorekLiu/XPermission/master/_screenshots/video.webp)
