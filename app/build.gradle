@@ -32,7 +32,8 @@ android {
 }
 
 dependencies {
-    implementation project(':xpermission')
+//    implementation project(':xpermission')
+    implementation 'com.github.YorekLiu:XPermission:v1.0.0_20220304'
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.3.0'
